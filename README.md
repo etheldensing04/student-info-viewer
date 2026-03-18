@@ -1,7 +1,7 @@
 # Hello! I'm Ethel Densing 👋
 
 🎓 BSIT Student  
-📍 From Cebu, Philippines  
+📍 Cebu, Philippines  
 💻 Aspiring IT Assistant & Data Encoder | Technical Support & Data Management  
 
 ## About Me
