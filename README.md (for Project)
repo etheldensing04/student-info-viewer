@@ -1,0 +1,16 @@
+# Student Info Viewer
+
+## Description
+A simple web-based student information viewer. Users can search for student names, view IDs, courses, and year levels. Built with **HTML, CSS, and JavaScript**.  
+
+## Features
+- View student information in a table  
+- Search/filter students by name  
+
+## Usage
+1. Download or clone the repository  
+2. Type a name in the search box to filter students  
+
+## Author
+**Ethel Densing**  
+Aspiring IT Assistant & Data Encoder | BSIT Student
